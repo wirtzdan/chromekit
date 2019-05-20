@@ -1,0 +1,19 @@
+{
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.8"
+  },
+  "peerDependencies": {
+    "framer": "^1.0",
+    "react": "^16.8"
+  },
+  "framer": {
+    "id": "08ef3248-3f14-4124-a92b-ed31c9b9d86a"
+  },
+  "author": "Daniel Wirtz",
+  "dependencies": {
+    "material-icons-react": "^1.0.4",
+    "styled-components": "^4.2.0"
+  }
+}
